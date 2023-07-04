@@ -8,3 +8,6 @@ text = "HELLOWORLD"
 for ch in text:
   print(ch, end=" ")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
